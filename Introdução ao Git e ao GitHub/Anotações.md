@@ -18,12 +18,12 @@
 		- git add .
 		- git commit -m "{comment for commit}"
 		- git remote add origin {repository url}
-		- git push -u origin master
+		- git push -u origin main
 
 	- Para enviar um repositório existente
 		- git remote add origin {repository url}
-		- git branch -M master
-		- git push -u origin master
+		- git branch -M main
+		- git push -u origin main
 
 
 - [Diferença entre git pull e git fetch](https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch)
